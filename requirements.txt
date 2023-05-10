@@ -1,0 +1,5 @@
+numpy
+scipy
+scikit-learn
+sympy
+git+https://www.github.com/david-cortes/approxcdf.git
