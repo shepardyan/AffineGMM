@@ -18,7 +18,7 @@ The fast approximation of CDF function of GMMs is from the [approxcdf package](h
 
 ## Reference
 
-[1] J. T. Flåm, “The Linear Model under Gaussian Mixture Inputs: Selected Problems in Communications,” Doctoral thesis, Norges teknisk-naturvitenskapelige universitet, Fakultet for informasjonsteknologi, matematikk og elektroteknikk, Institutt for elektronikk og telekommunikasjon, 2013. Accessed: Oct. 29, 2022. [Online]. Available: https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2370728
+[1] J. T. Flåm, “The Linear Model under Gaussian Mixture Inputs: Selected Problems in Communications,” Doctoral thesis, Norges teknisk-naturvitenskapelige universitet, Fakultet for informasjonsteknologi, matematikk og elektroteknikk, Institutt for elektronikk og telekommunikasjon, 2013. [Online]. Available: https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2370728
 
 [2] Z. Wang, C. Shen, F. Liu, and F. Gao, “Analytical Expressions for Joint Distributions in Probabilistic Load Flow,” IEEE Transactions on Power Systems, vol. 32, no. 3, pp. 2473–2474, May 2017, doi: 10.1109/TPWRS.2016.2612881.
 
