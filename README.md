@@ -1,4 +1,4 @@
-# Linear Transformations of Multivariate Gaussian Mixture Models
+# Affine Transformations of Multivariate Gaussian Mixture Models
 
 Gaussian Mixture Models (GMMs) are finite mixture models. They are suitable for affine transformation-based probabilistic analysis, such as DC probabilistic power flow.
 
