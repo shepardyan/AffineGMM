@@ -6,9 +6,10 @@ Gaussian Mixture Models (GMMs) are finite mixture models. They are suitable for 
 
 ## TODOs
 
-Sparse matrix support.
+- **Sparse matrix support:** Enhance the library with support for sparse matrices to improve computational efficiency in weak correlation scenarios.
 
-More APIs.
+- **More APIs:** Expand the library by adding additional APIs to address diverse use cases.
+
 
 ## Acknowledgement
 
